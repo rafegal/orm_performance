@@ -1,0 +1,7 @@
+# Ignored Itens
+*.pyc
+*.egg-info
+.idea
+*.pytest_cache/
+*.vscode/
+*.venv
