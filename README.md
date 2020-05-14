@@ -17,6 +17,9 @@ Ponha a correr a aplicação.
 python manage.py runserver
 ```
 
+**Admin User:** admin  
+**Admin Password:** admin123
+
 ## Testes
 
 https://127.0.0.1/vendas/
@@ -31,6 +34,3 @@ Aqui temos uma consulta total dos dados da tabela venda, mas já utilizando o se
 Aqui também é retornado apenas os campos utilizados, evitando trafegar dados desnecessários, o que também traz um ganho de performance.
 
 ![](images/readme/vendas_performance.png)
-
-**Admin User:** admin  
-**Admin Password:** admin123
