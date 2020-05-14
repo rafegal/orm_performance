@@ -1,6 +1,6 @@
 # Django ORM Performance
 
-Este projeto está relacionado ao conteúdo explicado no meu canal do Youtube, para melhor entendimento acesse:
+Este projeto está relacionado ao conteúdo explicado no meu canal do Youtube, para melhor entendimento acesse o [vídeo no Youtube](https://youtu.be/mTI3Y4NwYnc)
 
 Projeto para demonstrar a diferença de performance entre uma consulta simples e uma consulta com select_related (join) quando uma FK for utilizada e campos especificados, evitando retornar dado desnecessário do banco de dados.
 
